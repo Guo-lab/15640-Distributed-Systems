@@ -1,0 +1,13 @@
+.DS_Store
+15640-Distributed-Systems-Projects/*
+
+# Unignore specific files in the folder
+!15640-Distributed-Systems-Projects/recitation/*
+!15640-Distributed-Systems-Projects/README.md
+!15640-Distributed-Systems-Projects/.gitignore
+!15640-Distributed-Systems-Projects/15440-p1/README
+!15640-Distributed-Systems-Projects/15440-p2/README
+!15640-Distributed-Systems-Projects/15440-p3/README
+!15640-Distributed-Systems-Projects/15440-p4/README
+
+
